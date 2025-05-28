@@ -166,7 +166,6 @@ form button:hover {
   transform: scale(1.05);
 }
 
-/* Dark Mode Styles */
 .dark-mode, 
 body.dark-mode {
   background: #1e1e1e;
